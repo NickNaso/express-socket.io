@@ -28,7 +28,9 @@ Feel free to send me feedback and issue to improve the example.
 ## References
 
 [WebSocket Protocol](https://tools.ietf.org/html/rfc6455)
+
 [WebSocket API](https://www.w3.org/TR/websockets/)
+
 [Socket.IO](http://socket.io/docs/)
 
 ## Nicola Del Gobbo
