@@ -22,7 +22,7 @@ npm start
 
 The express application start at: [http://localhost:5000/](http://localhost:5000/)
 
-I created this repository for all of you have trouble in install and configure SOcket.IO over ExpressJS.
+I created this repository for all of you have trouble in install and configure Socket.IO over ExpressJS.
 Feel free to send me feedback and issue to improve the example.
 
 ## References
